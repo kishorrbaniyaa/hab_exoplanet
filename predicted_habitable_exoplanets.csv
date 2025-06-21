@@ -1,4 +1,4 @@
-name,mass,radius,temperature,flux,potentially_habitable,ESI (%)
+name,mass,radius,temperature,flux,potentially_habitable,ESI(%)
 Kepler-22 b,9.1,2.1,279.0,1.013,1,12.6
 Kepler-553 c,2129.4503269,11.57887706,251.0,0.589,1,0.01
 PH2 b,87.08498352,9.33708092,295.1,1.2,1,0.64
